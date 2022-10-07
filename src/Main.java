@@ -127,7 +127,7 @@ public class Main {
         int one = 1;
         int two = 2;
         int free = 3;
-        if (one < two && two > one && free>two){
+        if (one <two && two > one && free>two){
             System.out.println("Большее число составляет " + free);
         } else {
             System.out.println(one + two + "небольшие числа");
